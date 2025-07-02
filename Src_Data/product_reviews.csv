@@ -1,0 +1,6 @@
+review_id,product_id,customer_id,review_text,rating,date
+R001,P001,C001,Loved the taste! Will buy again.,5,2024-12-01
+R002,P002,C002,Too expensive for the quality.,2,2024-12-05
+R003,P003,C001,Average experience. Nothing special.,3,2024-12-10
+R004,P001,C003,Delicious and fresh.,4,2024-12-12
+R005,P002,C004,Disappointed. Packaging was damaged.,1,2024-12-15

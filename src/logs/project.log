@@ -1,0 +1,12 @@
+2025-07-01 11:45:12,765 - INFO - [logger.py:26] - importdata initialized with file: ..\data	ransactions.csv
+2025-07-01 11:45:12,767 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-01 11:45:12,767 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-01 11:45:12,774 - INFO - [logger.py:26] - Data import failed: [Errno 22] Invalid argument: 'c:\\Users\\navaz\\Desktop\\Data_Analysis_Project_Files\\src\\..\\data\transactions.csv'
+2025-07-01 11:45:12,774 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-01 11:45:12,774 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 10:13:20,262 - INFO - [logger.py:26] - importdata initialized with file: ..\data	ransactions.csv
+2025-07-02 10:13:20,265 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 10:13:20,265 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 10:13:20,306 - INFO - [logger.py:26] - Data import failed: [Errno 22] Invalid argument: 'c:\\Users\\navaz\\Desktop\\Data_Analysis_Project_Files\\src\\..\\data\transactions.csv'
+2025-07-02 10:13:20,306 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 10:13:20,307 - INFO - [logger.py:26] - Main class is called successfully

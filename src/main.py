@@ -11,5 +11,5 @@ class main:
         self.log.info("Filename is passed successfully")
 
 if __name__ == "__main__":
-    app = main('..\data\transactions.csv')
+    app = main('../data/transactions.csv')
     app.log.info("Main class is called successfully")

@@ -20,10 +20,10 @@ class importdata:
             self.log.info("file path : {file_path}")
             df = pd.read_csv(file_path)
             """connecting to the database"""
-
+            
 #            engine = create_engine("mysql+mysqlconnector://neda:neda%40123@localhost/testdb")
 # Upload the data
-            engine = db_config.sql_engine()
+            engine = sql_engine()
             table_name=self.filename[:-4  ]
             """uploading data to the database"""
             df.to_sql(table_name, con=engine, if_exists='append', index=False)

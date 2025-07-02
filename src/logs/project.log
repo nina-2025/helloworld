@@ -10,3 +10,93 @@
 2025-07-02 10:13:20,306 - INFO - [logger.py:26] - Data import failed: [Errno 22] Invalid argument: 'c:\\Users\\navaz\\Desktop\\Data_Analysis_Project_Files\\src\\..\\data\transactions.csv'
 2025-07-02 10:13:20,306 - INFO - [logger.py:26] - Filename is passed successfully
 2025-07-02 10:13:20,307 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 11:13:10,129 - ERROR - [logger.py:29] - Database connection failed: No module named 'pymysql'
+2025-07-02 11:15:06,239 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 11:16:00,964 - INFO - [logger.py:26] - importdata initialized with file: ..\data	ransactions.csv
+2025-07-02 11:16:00,964 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 11:16:00,964 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 11:16:00,989 - INFO - [logger.py:26] - Data import failed: [Errno 22] Invalid argument: 'c:\\Users\\navaz\\Desktop\\Data_Analysis_Project_Files\\src\\..\\data\transactions.csv'
+2025-07-02 11:16:00,990 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 11:16:00,990 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 11:16:33,814 - INFO - [logger.py:26] - importdata initialized with file: \data	ransactions.csv
+2025-07-02 11:16:33,814 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 11:16:33,814 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 11:16:33,828 - INFO - [logger.py:26] - Data import failed: [Errno 22] Invalid argument: 'c:\\data\transactions.csv'
+2025-07-02 11:16:33,829 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 11:16:33,829 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 11:16:59,146 - INFO - [logger.py:26] - importdata initialized with file: .\data	ransactions.csv
+2025-07-02 11:16:59,146 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 11:16:59,146 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 11:16:59,166 - INFO - [logger.py:26] - Data import failed: [Errno 22] Invalid argument: 'c:\\Users\\navaz\\Desktop\\Data_Analysis_Project_Files\\src\\.\\data\transactions.csv'
+2025-07-02 11:16:59,166 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 11:16:59,166 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 15:50:17,944 - INFO - [logger.py:26] - importdata initialized with file: .\data	ransactions.csv
+2025-07-02 15:50:17,944 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 15:50:17,944 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 15:50:17,961 - INFO - [logger.py:26] - Data import failed: [Errno 22] Invalid argument: 'c:\\Users\\navaz\\Desktop\\Data_Analysis_Project_Files\\src\\.\\data\transactions.csv'
+2025-07-02 15:50:17,961 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 15:50:17,962 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 15:50:33,759 - INFO - [logger.py:26] - importdata initialized with file: \data	ransactions.csv
+2025-07-02 15:50:33,760 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 15:50:33,760 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 15:50:33,769 - INFO - [logger.py:26] - Data import failed: [Errno 22] Invalid argument: 'c:\\data\transactions.csv'
+2025-07-02 15:50:33,769 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 15:50:33,769 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 15:59:30,523 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-02 15:59:30,523 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 15:59:30,523 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 15:59:30,647 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 15:59:30,647 - INFO - [logger.py:26] - Data import failed: name 'db_config' is not defined
+2025-07-02 15:59:30,647 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 15:59:30,647 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 16:00:48,071 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 16:01:14,884 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-02 16:01:14,884 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 16:01:14,884 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 16:01:14,893 - INFO - [logger.py:26] - Data import failed: name 'db_config' is not defined
+2025-07-02 16:01:14,893 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 16:01:14,893 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 16:03:05,099 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-02 16:03:05,099 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 16:03:05,099 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 16:03:05,181 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 16:03:12,638 - INFO - [logger.py:26] - Data import failed: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'None' ([Errno 11001] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 16:03:12,639 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 16:03:12,639 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 16:03:37,227 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-02 16:03:37,227 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 16:03:37,227 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 16:03:37,322 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 16:03:44,619 - INFO - [logger.py:26] - Data import failed: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'None' ([Errno 11001] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 16:03:44,619 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 16:03:44,621 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 16:24:58,291 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 16:40:07,727 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 16:40:53,631 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 16:43:24,569 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 16:44:17,334 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 16:44:39,844 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 17:14:20,290 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-02 17:14:20,296 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 17:14:20,296 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 17:14:20,381 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 17:14:20,443 - INFO - [logger.py:26] - Data import failed: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '123@localhost' ([Errno 11003] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 17:14:20,443 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 17:14:20,443 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 20:02:34,234 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-02 20:02:34,234 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 20:02:34,234 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 20:02:34,317 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 20:02:34,367 - INFO - [logger.py:26] - Data import failed: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '123@localhost' ([Errno 11003] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 20:02:34,371 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 20:02:34,371 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-02 20:06:06,489 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-02 20:06:06,490 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-02 20:06:06,490 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-02 20:06:06,565 - INFO - [logger.py:26] - Database connection successful.
+2025-07-02 20:06:06,680 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-02 20:06:06,682 - INFO - [logger.py:26] - Main class is called successfully

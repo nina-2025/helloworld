@@ -100,3 +100,80 @@
 2025-07-02 20:06:06,565 - INFO - [logger.py:26] - Database connection successful.
 2025-07-02 20:06:06,680 - INFO - [logger.py:26] - Filename is passed successfully
 2025-07-02 20:06:06,682 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-03 11:02:33,231 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:02:33,336 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:03:55,739 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:03:55,783 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:04:41,306 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:04:41,352 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:09:10,143 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:09:10,195 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:09:41,676 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:09:41,718 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:09:55,987 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:09:56,036 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:10:14,294 - INFO - [logger.py:26] - Database connection successful.
+2025-07-03 11:10:14,340 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 10:39:24,207 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-07 10:39:24,207 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-07 10:39:24,223 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-07 10:39:24,355 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 10:39:24,582 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-07 10:39:24,582 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-07 10:41:26,432 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-07 10:41:26,432 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-07 10:41:26,432 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-07 10:41:26,503 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 10:41:26,556 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-07 10:41:26,556 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-07 10:41:34,775 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 10:41:34,854 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 11:54:11,638 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 11:54:54,087 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 11:56:07,183 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 11:57:56,188 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 11:59:11,492 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 12:00:34,739 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 12:00:34,857 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 18:33:31,049 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 18:33:43,937 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 18:34:06,949 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 18:36:20,637 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 18:40:17,630 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 18:40:44,868 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 18:41:24,662 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 18:42:10,701 - INFO - [logger.py:26] - Database connection successful.
+2025-07-07 18:42:46,197 - INFO - [logger.py:26] - Database connection successful.
+2025-07-08 10:03:22,774 - INFO - [logger.py:26] - importdata initialized with file: ../data/transactions.csv
+2025-07-08 10:03:22,775 - INFO - [logger.py:26] - Data import started successfully.
+2025-07-08 10:03:22,775 - INFO - [logger.py:26] - file path : {file_path}
+2025-07-08 10:03:22,856 - INFO - [logger.py:26] - Database connection successful.
+2025-07-08 10:03:22,922 - INFO - [logger.py:26] - Filename is passed successfully
+2025-07-08 10:03:22,922 - INFO - [logger.py:26] - Main class is called successfully
+2025-07-11 21:26:41,301 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:29:55,769 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:30:42,629 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:31:55,911 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:31:57,884 - INFO - [logger.py:26] - Bar diagram created
+2025-07-11 21:48:01,090 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:48:08,934 - INFO - [logger.py:26] - Bar diagram created
+2025-07-11 21:48:37,581 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:48:44,315 - INFO - [logger.py:26] - Bar diagram created
+2025-07-11 21:49:33,115 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:49:53,300 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:51:35,973 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:55:05,714 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:55:21,518 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 21:56:37,120 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 22:00:56,364 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 22:01:15,711 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 22:01:31,562 - INFO - [logger.py:26] - Bar diagram created
+2025-07-11 22:01:51,050 - INFO - [logger.py:26] - Visualize initialized
+2025-07-11 22:01:56,733 - INFO - [logger.py:26] - Bar diagram created
+2025-07-13 20:49:54,372 - INFO - [logger.py:26] - Visualize initialized
+2025-07-13 20:49:54,872 - INFO - [category.py:224] - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-13 20:49:54,875 - INFO - [category.py:224] - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-13 20:49:56,728 - INFO - [logger.py:26] - plot diagram created
+2025-07-13 20:49:58,702 - INFO - [logger.py:26] - Bar diagram created
+2025-07-13 20:50:00,915 - INFO - [logger.py:26] - Boxplot diagram created
+2025-07-13 20:50:01,165 - INFO - [logger.py:26] - Pie diagram created

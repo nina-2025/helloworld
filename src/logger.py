@@ -23,10 +23,25 @@ class ProjectLogger:
         self.logger = logging.getLogger("ProjectLogger")
 
     def info(self, message):
+        """Log an informational message.
+
+        :param message: The message to log.
+        :type message: str
+        """
         self.logger.info(message)
 
     def error(self, message):
+        """Log an error message.
+
+        :param message: The message to log.
+        :type message: str
+        """
         self.logger.error(message)
     
     def debug(self, message):
+        """Log a debug message.
+
+        :param message: The message to log.
+        :type message: str
+        """
         self.logger.debug(message)

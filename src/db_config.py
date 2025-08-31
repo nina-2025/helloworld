@@ -8,6 +8,25 @@ from pathlib import Path
 
 
 def sql_engine():
+    """
+    Return a SQLAlchemy engine object using the database credentials set in
+    the environment variables.
+
+    The environment variables used are:
+
+    - DB_USER: the username to use for the database connection
+    - DB_PASSWORD: the password to use for the database connection
+    - DB_HOST: the hostname of the database server
+    - DB_PORT: the port number to use for the database connection
+      (default is 3306)
+    - DB_NAME: the name of the database to connect to
+
+    If any of the environment variables are not set, a message will be printed
+    to the console.
+
+    Returns:
+        A SQLAlchemy engine object, or None if the connection fails.
+    """
     env_path = Path(__file__).resolve().parent.parent / 'src' / 'conf.env'
 
 # Load it explicitly
@@ -25,6 +44,9 @@ def sql_engine():
      #    if value is None:
       #      print(f"Environment variable {key.upper()} is not set.")
     # Build the connection URL
+    """
+    makes the connection to the database
+    """
     connection_url = (
         f"mysql+pymysql://{db_credentials['user']}:{db_credentials['password']}"
         f"@{db_credentials['host']}:{db_credentials['port']}/{db_credentials['database']}"

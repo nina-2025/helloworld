@@ -4,14 +4,23 @@ import traceback
 import os
 from logger import ProjectLogger
 from db_config import sql_engine
-class importdata:
-    """Class for importing data from a CSV file."""
+
+class ImportData:
+    """Class for importing data from a CSV file and inserting to a database table"""
     def __init__(self, filename):
         self.filename = filename
         self.log=ProjectLogger()
         self.log.info(f"importdata initialized with file: {self.filename}")
     
     def load_data(self):  # ✅ renamed and added self
+        """
+        Loads data from a CSV file and inserts it into a database table.
+
+        Notes:
+            - The filename should be a string with the full path to the CSV file
+            - The table name in the database will be the same as the filename
+              without the extension.
+        """
         try:
             print(self.filename)
             self.log.info("Data import started successfully.")

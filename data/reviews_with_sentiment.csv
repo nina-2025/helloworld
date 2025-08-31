@@ -1,0 +1,6 @@
+review_id,product_id,customer_id,review_text,rating,date,name,category,polarity,subjectivity,sentiment
+R001,P001,C001,Loved the taste! Will buy again.,5,2024-12-01,Fresh Orange,Beverages,0.875,0.8,positive
+R002,P002,C002,Too expensive for the quality.,2,2024-12-05,Almond Milk,Beverages,-0.5,0.7,negative
+R003,P003,C001,Average experience. Nothing special.,3,2024-12-10,Protein Bar,Snacks,0.10357142857142858,0.48571428571428565,positive
+R004,P001,C003,Delicious and fresh.,4,2024-12-12,Fresh Orange,Beverages,0.65,0.75,positive
+R005,P002,C004,Disappointed. Packaging was damaged.,1,2024-12-15,Almond Milk,Beverages,-0.75,0.75,negative

@@ -1,0 +1,6 @@
+transaction_id,product_id,customer_id,quantity,price,transaction_date,total_revenue,name,category
+T001,P001,C001,2,10.0,2024-12-01,20.0,Fresh Orange,Beverages
+T002,P002,C002,1,15.0,2024-12-03,15.0,Almond Milk,Beverages
+T003,P001,C003,1,10.0,2024-12-07,10.0,Fresh Orange,Beverages
+T004,P003,C001,3,8.0,2024-12-10,24.0,Protein Bar,Snacks
+T005,P002,C004,2,15.0,2024-12-12,30.0,Almond Milk,Beverages

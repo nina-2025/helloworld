@@ -1,0 +1,6 @@
+transaction_id,product_id,customer_id,quantity,price,transaction_date,customer_id,name,age,city,product_id,name,category,review_id,product_id,customer_id,review_text,rating,date
+T001,P001,C001,2,10.0,2024-12-01,C001,Alice Lee,29.0,Amsterdam,P001,Fresh Orange,Beverages,R001,P001,C001,Loved the taste! Will buy again.,5,2024-12-01
+T002,P002,C002,1,15.0,2024-12-03,C002,Bob Smith,35.0,Rotterdam,P002,Almond Milk,Beverages,R002,P002,C002,Too expensive for the quality.,2,2024-12-05
+T003,P001,C003,1,10.0,2024-12-07,C003,Carla Ruiz,41.0,Utrecht,P003,Protein Bar,Snacks,R003,P003,C001,Average experience. Nothing special.,3,2024-12-10
+T004,P003,C001,3,8.0,2024-12-10,C004,Dan Chen,24.0,Eindhoven,,,,R004,P001,C003,Delicious and fresh.,4,2024-12-12
+T005,P002,C004,2,15.0,2024-12-12,,,,,,,,R005,P002,C004,Disappointed. Packaging was damaged.,1,2024-12-15
